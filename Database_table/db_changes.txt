@@ -1,0 +1,15 @@
+Add Two feilds in exam_fees table 
+
+1.subjects
+2.payment_date
+
+
+
+Add five feilds in student table
+
+1.city
+2.state
+3.locality
+4.zip_code
+5.first_graduation
+
